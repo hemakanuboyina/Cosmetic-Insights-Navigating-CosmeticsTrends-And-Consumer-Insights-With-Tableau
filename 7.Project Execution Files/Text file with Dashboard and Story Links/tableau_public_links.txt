@@ -1,0 +1,14 @@
+Tableau Public DASHBOARD LINK :
+
+
+https://public.tableau.com/views/CosmeticProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
+Tableau Public STORY LINK : 1
+
+https://public.tableau.com/views/CosmeticProjectstory/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Tableau Public STORY LINK : 2
+
+https://public.tableau.com/views/CosmeticProjectstory2/Story2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
