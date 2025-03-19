@@ -1,9 +1,6 @@
 Tableau Public DASHBOARD LINK :
 
-
 https://public.tableau.com/views/CosmeticProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-
 
 Tableau Public STORY LINK : 1
 
