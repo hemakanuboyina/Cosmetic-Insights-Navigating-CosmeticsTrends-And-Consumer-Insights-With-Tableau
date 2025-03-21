@@ -1,0 +1,39 @@
+/* style.css - Custom Styling for Cosmetic Insights Website */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    background: url("../images/cosmetics_bg.jpg") no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-family: 'Playfair Display', serif; /* Elegant font */
+    font-size: 3rem; /* Bigger size */
+    font-weight: bold;
+    color: #222; /* Dark gray for a premium look */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+p {
+    font-family: 'Poppins', sans-serif; /* Modern clean font */
+    font-size: 1.2rem;
+    color: #444; /* Slightly dark gray */
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+}
